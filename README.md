@@ -62,6 +62,13 @@
 
 - RESTful APIs are used to handle interactions between the frontend and backend, ensuring scalability and performance.
 
+## 👤 Testing web application
+Login
+```json
+  "email": "tranvihao40@gmail.com"
+  "password": "Vihao2003@"
+```
+
 ## 📷 Screenshots
 
 ➡️ Let's go to take a look at our project
