@@ -65,7 +65,7 @@
 ## 👤 Testing web application
 Login
 ```json
-  "email": "tranvihao40@gmail.com"
+  "email": "tomcat@gmail.com"
   "password": "Vihao2003@"
 ```
 
